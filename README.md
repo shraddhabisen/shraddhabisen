@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shraddhabisen
 - 👀 I’m interested in Web Development & Data Analysis
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning .NET and C# Programming Language
 - 💞️ I enjoy reading, travelling, and eating junk food XD
 - 📫 How to reach me - linkedin.com/in/shraddhabisen
 
